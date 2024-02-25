@@ -1,1 +1,1 @@
-# currency-converter
+# Currency Converter API Project
